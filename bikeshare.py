@@ -218,7 +218,7 @@ def display_raw_data(df):
     #if user wants to see the data rows and if i is within the upper limit print dataframe 
     raw_input = input("\nDo you want to see raw data? Enter 'yes' or 'no'\n").strip().lower()    
     if raw_input not in ("yes"):
-         print("\nInvalid input! Please enter a valid option")
+         print("\nInvalid input! Please enter a valid option.Enter yes or no")
          display_raw_data(df)
     else:       
         index=0
