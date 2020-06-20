@@ -5,7 +5,7 @@ I created Explore US Bikeshare Data project in May. This project's script is wri
 Description
 
 In this project, i used data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. My project compared the system usage between three large cities: Chicago, New York City, and Washington, DC.
-My code imports data from csv files and computes descriptive statistics from the data. It takes inputs from users to present statistics.
+My code imports data from csv files and computes descriptive statistics from the data. It takes inputs from users to present statistics. It is a user friendly project
 
 Files Used
 
