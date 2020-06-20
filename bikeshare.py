@@ -32,6 +32,8 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
     print('\nHello! My name is Berfin. Let\'s explore some US bikeshare data with me!')
+	print('\nYou will learn about bike share use in Chicago,New York City and Washington!')
+	
     
     
 #while loop for selecting city from cities list
