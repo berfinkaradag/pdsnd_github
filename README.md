@@ -1,5 +1,5 @@
 Udacity Explore US Bikeshare Data Project
-I created Explore US Bikeshare Data project in May
+I created Explore US Bikeshare Data project in May. This project's script is written in Python 3. 
 
 Description
 
